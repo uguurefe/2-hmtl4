@@ -1,6 +1,6 @@
 # html4 ile basit formlar yapın
 ##Sorun:
-* Asıl sorunlara geçmeden önce antreman herzaman güzeldir ve eylencelidir.
+* Asıl sorunlara geçmeden önce antreman herzaman güzeldir ve eğlencelidir.
 * basit olarak 
   * kayıt formu
   * şifremi unuttum formu
